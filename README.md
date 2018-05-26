@@ -1,6 +1,5 @@
-# SmartBrain - v2
+SmartBrain - v2
 
+This is a simple react app that use an API calls Clarafai for face recognition
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Please follow the link, register and introduce a url for a image and see how it works!
